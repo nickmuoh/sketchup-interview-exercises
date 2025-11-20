@@ -14,23 +14,30 @@ To ensure we make the most of our time together, please complete the **Pre-Inter
 
 #### Step 1: Create the Codespace
 1.  Ensure you are logged into your GitHub account.
-2.  Click the green **Code** button at the top right of this file list.
+2.  Click the green **Code** button at the top right of the repo homepage.
 3.  Select the **Codespaces** tab.
-4.  Click **Create codespace on main**.
+4.  Click **Create codespace on main**. 
 
-> **Note**: It may take a few minutes for the environment to build and load in your browser.
+<p align="center">
+  <img src="public/img/codespace-img.png" alt="Click the create codespace on main" width="200"><br>
+  <span><i>It may take a few minutes for the environment to build and load in your browser.<i></span>
+</p>
+
 
 #### Step 2: Install Live Share
 Once the VS Code editor loads in your browser:
+
 1.  Click the **Extensions** icon (blocks on the left sidebar).
-2.  Search for **"Live Share"**.
-3.  If it is not installed, click **Install**. If it is already installed, ensure it is enabled.
+2.  Search for **"[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)"**.
+3.  If it is not installed, click **Install**. If it is already installed, ensure the extension is not disabled.
 
 #### Step 3: Verification
-* Locate the **Live Share** icon (arrow circle) in the bottom left sidebar or status bar.
-* If you see this icon, you are all set! You can close the tab; the Codespace will save your state.
+* Locate the **Live Share** icon in the bottom left sidebar or status bar.
+* If you see the liveshare icons, you are all set! You can close the tab; the Codespace will save your state.
 
----
+<p align="center">
+  <img src="public/img/liveshare-enabled-locations.png" alt="Locations of Liveshare Icons in Github Codespaces" width="500"><br>
+</p>
 
 ## During the Interview
 When you join the video call (Google Meet), please perform the following:
