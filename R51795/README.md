@@ -10,12 +10,12 @@
 
 2. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install -r R51795/requirements.txt
    ```
 
 3. **Verify your environment:**
    ```bash
-   python --version  # Should be Python 3.7+
+   python --version  # Should be Python 3.12
    ```
 
 ---
