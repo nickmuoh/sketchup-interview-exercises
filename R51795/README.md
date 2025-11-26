@@ -17,7 +17,7 @@ This directory contains two exercises evaluating your proficiency in advanced SQ
 
 3. **Verify your environment:**
    ```bash
-   python --version  # Should be Python 3.7+
+   python --version  # Should be Python 3.12
    ```
 
 ## Exercise 1: Weekly Active Users (WAU) Calculation
