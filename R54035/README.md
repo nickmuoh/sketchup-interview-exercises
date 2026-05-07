@@ -10,7 +10,7 @@
 
 2. **Install dependencies:**
    ```bash
-   pip install -r R51795/requirements.txt
+   pip install -r R54035/requirements.txt
    ```
 
 3. **Verify your environment:**
