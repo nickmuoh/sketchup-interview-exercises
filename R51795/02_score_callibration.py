@@ -23,8 +23,8 @@ def calibrate_and_lift(scores_df: pd.DataFrame, labels_df: pd.DataFrame):
     baseline = df['churn_label'].____()
 
     # Top-decile churn and lift
-    lift = ____
     top_decile_rate = ____
+    lift = ____
 
     # Cumulative capture in top 10% most risky
     df_sorted = df.sort_values('score', ascending=False)
